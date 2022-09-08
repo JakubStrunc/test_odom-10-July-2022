@@ -6,7 +6,12 @@ After 3 days of discussion about the problem, I finally find the formular
 
 
 
+
+
 I rewrited into my code, and It works!!!
+
+
+
 ![image](https://user-images.githubusercontent.com/105900658/189029151-b5b4ed94-9eb3-4078-a486-a85ea7e38f34.png)
 
 
